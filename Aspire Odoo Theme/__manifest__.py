@@ -18,7 +18,7 @@
         'views/snippets/s_info_details.xml',
         'views/snippets/s_info_tabs.xml'
     ],
-    'license': 'Proprietary and Paid',
+    'license': 'LGPL-3',
     'website ': 'https://aspiresoftware.in/',
 	'category': 'Theme/Creative',  
     'depends': ['website', 'website_theme_install'],
